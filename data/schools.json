@@ -1,0 +1,136 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "international",
+				"title": "Escola da Esperança",
+				"status": "",
+				"address": {
+					"line1": "Escola da Esperança",
+					"line2": "Monte do Cerro",
+					"postcode": "7630-392 Reliquias",
+					"region": "Alentejo",
+					"country": "portugal"
+				},
+				"phone": "+351283635306",
+				"web": "https://www.escola-da-esperanca.org",
+				"email": "office@escola-da-esperanca.org",
+				"open_since": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-8.518083,
+					37.720374
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "natural",
+				"title": "Folha Verde - Natural Education and Community Project",
+				"status": "",
+				"address": {
+					"line1": "",
+					"line2": "",
+					"postcode": "",
+					"region": "",
+					"country": "portugal"
+				},
+				"phone": "",
+				"email": "",
+				"web": "https://www.folhaverde.pt",
+				"open_since": "",
+				"description": "Folha Verde is a natural education project based in a restored olive press in the beautiful mountains of central Portugal. We are a group of home educating parents holding a space for our children to experience"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-7.945261001586914,
+					40.2302011147538
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "alternative",
+				"title": "Expression Education",
+				"status": "closed",
+				"address": {
+					"line1": "Rua Do Colégio",
+					"line2": "",
+					"postcode": "6090-562",
+					"region": "pernamacor",
+					"country": "portugal"
+				},
+				"phone": "+351 910 275 405",
+				"web": "http://www.expressioneducation.co.uk/",
+				"open_since": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-7.17428684235,
+					40.1695934548
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "",
+				"status": "",
+				"title": "Comunidade de Aprendizagem das Cerejeiras - Cherry Tree Education Project",
+				"address": {
+					"line1": "",
+					"line2": "",
+					"postcode": "3230-084 Coimbra",
+					"region": "Coimbra",
+					"country": "portugal"
+				},
+				"phone": "239 551 197",
+				"web": "http://www.cerejeiras.pt",
+				"email": "geral@cerejeiras.pt",
+				"open_since": "September 2016",
+				"description": "We are an Educational Community in process of initiating a school where children can access the skills and confidence they need to be happy and fulfill their true potential both academically and as a human being, contributing towards a more compassionate and peaceful world."
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-8.452978,
+					40.029184
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "International",
+				"pricing": "paid",
+				"name": "Redbridge",
+				"status": "",
+				"address": {
+					"line1": "R. Francisco Metrass 97",
+					"line2": "",
+					"postcode": "1350-164 Lisbon",
+					"region": "",
+					"country": "portugal"
+				},
+				"phone": "+351 210 522 550",
+				"web": "https://www.redbridgeschool.com/",
+				"open_since": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-9.166628,
+					38.718863
+				]
+			}
+		}
+	]
+}
