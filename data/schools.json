@@ -7,6 +7,7 @@
 				"type": "international",
 				"title": "Escola da Esperança",
 				"status": "",
+				"description": "",
 				"address": {
 					"line1": "Escola da Esperança",
 					"line2": "Monte do Cerro",
@@ -14,10 +15,11 @@
 					"region": "Alentejo",
 					"country": "portugal"
 				},
-				"phone": "+351283635306",
-				"web": "https://www.escola-da-esperanca.org",
+				"phone": "(+351) 283 635 306",
+				"web": "http://www.escola-da-esperanca.org",
 				"email": "office@escola-da-esperanca.org",
-				"open_since": ""
+				"open_since": "",
+				"hours": {}
 			},
 			"geometry": {
 				"type": "Point",
@@ -33,6 +35,7 @@
 				"type": "natural",
 				"title": "Folha Verde - Natural Education and Community Project",
 				"status": "",
+				"description": "Folha Verde is a natural education project based in a restored olive press in the beautiful mountains of central Portugal. We are a group of home educating parents holding a space for our children to experience",
 				"address": {
 					"line1": "",
 					"line2": "",
@@ -44,7 +47,7 @@
 				"email": "",
 				"web": "https://www.folhaverde.pt",
 				"open_since": "",
-				"description": "Folha Verde is a natural education project based in a restored olive press in the beautiful mountains of central Portugal. We are a group of home educating parents holding a space for our children to experience"
+				"hours": {}
 			},
 			"geometry": {
 				"type": "Point",
@@ -58,8 +61,9 @@
 			"type": "Feature",
 			"properties": {
 				"type": "alternative",
-				"title": "Expression Education",
 				"status": "closed",
+				"title": "Expression Education",
+				"description": "",
 				"address": {
 					"line1": "Rua Do Colégio",
 					"line2": "",
@@ -67,9 +71,10 @@
 					"region": "pernamacor",
 					"country": "portugal"
 				},
-				"phone": "+351 910 275 405",
+				"phone": "(+351) 910 275 405",
 				"web": "http://www.expressioneducation.co.uk/",
-				"open_since": ""
+				"open_since": "",
+				"hours": {}
 			},
 			"geometry": {
 				"type": "Point",
@@ -85,6 +90,7 @@
 				"type": "",
 				"status": "",
 				"title": "Comunidade de Aprendizagem das Cerejeiras - Cherry Tree Education Project",
+				"description": "We are an Educational Community in process of initiating a school where children can access the skills and confidence they need to be happy and fulfill their true potential both academically and as a human being, contributing towards a more compassionate and peaceful world.",
 				"address": {
 					"line1": "",
 					"line2": "",
@@ -92,11 +98,14 @@
 					"region": "Coimbra",
 					"country": "portugal"
 				},
-				"phone": "239 551 197",
+				"phone": "(+351) 239 551 197",
 				"web": "http://www.cerejeiras.pt",
+				"social": {
+					"facebook": ""
+				},
 				"email": "geral@cerejeiras.pt",
 				"open_since": "September 2016",
-				"description": "We are an Educational Community in process of initiating a school where children can access the skills and confidence they need to be happy and fulfill their true potential both academically and as a human being, contributing towards a more compassionate and peaceful world."
+				"hours": {}
 			},
 			"geometry": {
 				"type": "Point",
@@ -110,9 +119,9 @@
 			"type": "Feature",
 			"properties": {
 				"type": "International",
-				"pricing": "paid",
-				"name": "Redbridge",
-				"status": "",
+				"title": "Redbridge",
+				"status": "open",
+				"description": "",
 				"address": {
 					"line1": "R. Francisco Metrass 97",
 					"line2": "",
@@ -120,15 +129,51 @@
 					"region": "",
 					"country": "portugal"
 				},
-				"phone": "+351 210 522 550",
+				"phone": "(+351) 210 522 550",
 				"web": "https://www.redbridgeschool.com/",
-				"open_since": ""
+				"social": {
+					"facebook": ""
+				},
+				"open_since": "",
+				"hours": {},
+				"pricing": "paid"
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
 					-9.166628,
 					38.718863
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"type": "Waldorf",
+				"status": "open",
+				"title": "Waldorf Infancia Viva",
+				"description": "Entrar neste Jardim de Infância é sentir o calor e alegria de ser criança, reconhecer em cada recanto um lugar onde é possível descobrir um mundo além do visível.",
+				"address": {
+					"line1": "Monte Judeu",
+					"line2": "Barão de S. João",
+					"postcode": "8600-020 Lagos",
+					"region": "",
+					"country": "portugal"
+				},
+				"phone": "(+351) 282 761 786",
+				"email": "jardiminfanciaviva@gmail.com",
+				"web": "https://waldorfinfanciaviva.org/",
+				"social": {
+					"facebook": "https://fb.com/waldorfinfanciaviva"
+				},
+				"open_since": "",
+				"hours": {}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-8.724296,
+					37.125966
 				]
 			}
 		}
